@@ -1,8 +1,8 @@
 <div align="center">
 
-# Thirukural GPT
+# kuralGPT
 
-**Thirukural GPT** is an AI-inspired learning project that explains Thirukkural in simple Tamil and English.
+**kuralGPT** is an AI-inspired learning project that explains Thirukkural in simple Tamil and English.
 
 <img src="assets/thirukural_pothuvudamai_kural216.png" alt="Thirukural Kural 216 Poster" width="850"/>
 
