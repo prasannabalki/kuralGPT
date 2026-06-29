@@ -22,16 +22,6 @@ Wealth in the hands of a virtuous person benefits the whole community, like a fr
 
 ---
 
-## Project Files
-
-| File | Description |
-|---|---|
-| `index.html` | Landing page |
-| `style.css` | Page styling |
-| `assets/thirukural_pothuvudamai_kural216.png` | Poster image |
-| `data/kurals.json` | Kural data |
-
----
 
 ## Goal
 
